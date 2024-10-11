@@ -1,1 +1,1 @@
-Soptify Clone usinh HTML and CSS.
+Spotify Clone usinh HTML and CSS.
